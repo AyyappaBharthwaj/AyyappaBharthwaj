@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AyyappaBharthwaj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate Data Science
+- 🌱 I’m currently lookinf for Data Science jobs
 - 📫 How to reach me 
 - Linked in - linkedin.com/in/ayyappabharthwaj-nukala-a945b0109
 
